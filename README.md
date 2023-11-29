@@ -10,3 +10,5 @@
 - 🏊‍♂️ My Hobby : Swimming
 - ⚽ My Favorite Sports Team : Real Madrid
 - 🖥️ What I want to learn for my career : Deep Learning, Data Engineering
+- 🔢 What language do I usually use : MYSQL, Python
+- 🪞 My Graduation Project : A Smart Mirror which recommends personal color and fashion based on today's weather (Using MagicMirror) 
