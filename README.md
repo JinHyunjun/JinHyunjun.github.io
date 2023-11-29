@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on 프로젝트
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
-- 📫 How to reach me: 이메일
+- 📫 How to reach me: hyeonjunj014@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: 특장점
 
