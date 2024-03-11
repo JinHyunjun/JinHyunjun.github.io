@@ -3,8 +3,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Python-1825?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Django-AA6?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Python-1825?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-AA6?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/MagicMirror-B56?style=for-the-badge&logo=Magicmirror&logoColor=white">
+<img src="https://img.shields.io/badge/Opencv-256417?style=for-the-badge&logo=Opencv&logoColor=white">
 
 
 
